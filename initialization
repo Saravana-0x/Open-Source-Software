@@ -1,0 +1,3 @@
+  mkdir my-first-repo      # Creating Repository
+  cd my-first-repo         # Changing Directory
+  git init
